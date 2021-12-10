@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PratikMEH
 - 👀 I’m interested in implementing new ideas into app
-- 🌱 I’m currently learning dart for using Flutter
-- 💞️ I’m looking to collaborate on an organization
+- 🌱 I’m currently learning react native to build hydrid application
 - 📫 How to reach me :Ping me on pratikch00947@gmail.com
 
 <!---
